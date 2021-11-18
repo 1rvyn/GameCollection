@@ -1,3 +1,5 @@
+# OOP python game made in 2020
+
 import _tkinter
 import sys
 import tkinter
